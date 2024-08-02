@@ -1,3 +1,4 @@
+//return element having maximum occurrence in an integer array.
 //moore voting algorithm
 class Prob169 {
     public int majorityElement(int[] nums) 
