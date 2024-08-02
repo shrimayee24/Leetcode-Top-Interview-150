@@ -1,8 +1,10 @@
-//import java.util.Hashmap;
+//convert roman number to integer
+
 class Prob13
 {
     public int romanToInt(String s) 
     {
+        //create hashmap for checking valid roman characters mapped with their numeric values
         Map<Character, Integer> roman=new HashMap<>();
         roman.put('I',1);
         roman.put('V',5);
@@ -18,7 +20,9 @@ class Prob13
         //iterate starting from second last character
         for(int i=s.length()-2; i>=0; i--)
         {
-if(roman.get(s.charAt(i))<roman.get(s.charAt(i+1)))
+//if value of char is less than subsequent char, decrement value of subsequent char by previous char
+//else increment
+            if(roman.get(s.charAt(i))<roman.get(s.charAt(i+1)))
 {
     ans-= roman.get(s.charAt(i));
 }
