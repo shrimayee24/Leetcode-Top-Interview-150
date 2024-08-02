@@ -1,3 +1,5 @@
+//find common prefix i.e common substring starting at index 0 in all strings
+
 class Prob14 {
     public String longestCommonPrefix(String[] strs) 
     {
