@@ -1,4 +1,4 @@
-//chek whether strings are anagrams of each other
+//check whether strings are anagrams of each other
 
 //logic similiar to ransom notes
 //maintain array of count of letters
