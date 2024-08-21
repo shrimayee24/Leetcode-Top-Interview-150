@@ -7,7 +7,7 @@
 //if all letters in s are ccoered in t then count at each index=0 
 //i.e strings are anagrams of each other
 
-class Solution 
+class Prob242
 {
     public boolean isAnagram(String s, String t) 
     {
