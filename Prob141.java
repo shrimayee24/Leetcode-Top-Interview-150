@@ -1,6 +1,6 @@
 //detect cycle in linked list
  
-//slow pointer fast pointer approach
+//slow pointer fast pointer approach-Floyd's tortoise and hare
  //if two meet- cycle exists
 
 public class Prob141
