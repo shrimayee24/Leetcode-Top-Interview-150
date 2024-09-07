@@ -1,4 +1,4 @@
-**LeetCode Top Interview 150 Solutions 💻✨**
+**✨💻LeetCode Top Interview 150 Solutions 💻✨**
 
 Welcome to my LeetCode Top Interview 150 repository! 🚀
 
@@ -9,7 +9,7 @@ This repository contains my solutions to the LeetCode Top Interview 150 coding p
 Each file is named according to the problem number for easy navigation (e.g Prob1.java which stands for problem no 1: two sum problem).
 I've included detailed comments in each solution to explain the thought process,logic and algorithm used. This should help in understanding the approach and making the search for solutions quick and easy!
 
-🛠️ ***Tech Stack:***
+⌨️ ***Tech Stack:***
 
 🌟Language: Java
 
@@ -29,7 +29,7 @@ This repo serves as:
 
 🌟A showcase of clean, optimized, and well-commented code.
 
-🚧 ***Improvements and Feedback:***
+🎯***Improvements and Feedback:***
 
 I'm continuously improving my solutions and making them more efficient. Feel free to:
 
@@ -37,9 +37,6 @@ I'm continuously improving my solutions and making them more efficient. Feel fre
 
 🌟Share feedback if you spot any improvements or optimizations!
 
-🌱 ***Let's Connect:***
-
-I’m always open to feedback and learning! Any improvements or suggestions are most welcome!
 
 Happy coding! 🎉
 
