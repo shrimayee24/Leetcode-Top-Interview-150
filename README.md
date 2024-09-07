@@ -12,7 +12,6 @@ I've included detailed comments in each solution to explain the thought process,
 ## ⌨️ **Tech Stack:**
 
 🌟Language: Java
-
 🌟Concepts Covered: Data Structures, Algorithms, Programmic Logic
 
 ## 🔍 **How to Search for Solutions:**
