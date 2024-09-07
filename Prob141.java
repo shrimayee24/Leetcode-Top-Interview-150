@@ -3,7 +3,7 @@
 //slow pointer fast pointer approach
  //if two meet- cycle exists
 
-public class Solution 
+public class Prob141
 {
     public boolean hasCycle(ListNode head) 
     {
