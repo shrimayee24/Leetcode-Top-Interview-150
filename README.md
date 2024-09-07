@@ -6,7 +6,7 @@ This repository contains my solutions to the LeetCode Top Interview 150 coding p
 
 ## 📂 **Project Structure:**
 
-Each file is named according to the problem number for easy navigation (e.g Prob1.java which stands for problem no 1: two sum problem).
+Each file is named according to the problem number for easy navigation (e.g Prob1.java which stands for problem no. 1: two sum problem).
 I've included detailed comments in each solution to explain the thought process,logic and algorithm used. This should help in understanding the approach and making the search for solutions quick and easy!
 
 ## ⌨️ **Tech Stack:**
