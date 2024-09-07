@@ -12,6 +12,7 @@ I've included detailed comments in each solution to explain the thought process,
 ## ⌨️ **Tech Stack:**
 
 🌟Language: Java
+
 🌟Concepts Covered: Data Structures, Algorithms, Programmic Logic
 
 ## 🔍 **How to Search for Solutions:**
@@ -23,7 +24,9 @@ You can search by problem number or keywords to quickly find the solution you're
 This repo serves as:
 
 🌟My personal coding journal to keep track of solved problems.
+
 🌟A resource for anyone preparing for coding interviews or practicing their problem-solving skills.
+
 🌟A showcase of clean, optimized, and well-commented code.
 
 ## 🎯**Improvements and Feedback:**
