@@ -2,7 +2,10 @@
 
 Welcome to my LeetCode Top Interview 150 repository! 🚀
 
-This repository contains my solutions to the LeetCode Top Interview 150 coding problems. I've tackled a variety of algorithmic challenges that cover essential data structures, algorithms, and problem-solving techniques for coding interviews.
+
+☘️ This repository contains my solutions to the LeetCode Top Interview 150 coding problems. 
+
+☘️ I've tackled a variety of algorithmic challenges that cover essential data structures, algorithms, and problem-solving techniques for coding interviews.
 
 ## 📂 **Project Structure:**
 
@@ -10,17 +13,17 @@ This repository contains my solutions to the LeetCode Top Interview 150 coding p
 
 ✅ I've included detailed comments in each solution to explain the thought process, logic and algorithm used. 
 
-✅ This should help in understanding the approach and making the search for solutions quick and easy!
+✅ This should help in understanding the approach and implementing solutions more quick and easy!
 
 ## ⌨️ **Tech Stack:**
 
 🌟 Language: Java
 
-🌟 Concepts Covered: Data Structures, Algorithms, Programmic Logic
+🌟 Concepts Covered: Data Structures, Algorithms, Programming Logic
 
 ## 🔍 **How to Search for Solutions:**
 
-📌 You can search by problem number or keywords to quickly find the solution you're looking for. 
+📌 You can search by problem number to find the solution you're looking for. 
 
 📌 Each file is named accordingly.
 
