@@ -21,7 +21,7 @@ class Prob35
           }
         }
         
-        //if target is greater than currnumber, there must be some number ahead which   is greater than target
+        //if target is greater than currnumber, there must be some number ahead which is greater than target
           //if no number ahead left which is >target then target is greatest of all elements, placed at the index next to last index=length of array.
           return nums.length;
        
