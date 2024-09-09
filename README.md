@@ -25,6 +25,8 @@ Welcome to my LeetCode Top Interview 150 repository! 🚀
 
 📌 You can search by problem number to find the solution you're looking for. 
 
+📌Files are sorted characterwise. 
+
 📌 Each file is named accordingly.
 
 ## 🏆 **Why This Repo?:**
