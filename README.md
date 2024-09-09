@@ -7,7 +7,7 @@ Welcome to my LeetCode Top Interview 150 repository! 🚀
 
 ☘️ I've tackled a variety of algorithmic challenges that cover essential data structures, algorithms, and problem-solving techniques for coding interviews.
 
-## 📂 **Project Structure:**
+## 📂 **File Structure:**
 
 ✅ Each file is named according to the problem number for easy navigation (e.g Prob1.java which stands for problem no. 1: two sum problem).
 
