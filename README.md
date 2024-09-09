@@ -25,7 +25,7 @@ Welcome to my LeetCode Top Interview 150 repository! 🚀
 
 📌 You can search by problem number to find the solution you're looking for. 
 
-📌Files are sorted characterwise. 
+📌Files are stored in dictionary order.
 
 📌 Each file is named accordingly.
 
