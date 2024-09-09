@@ -1,6 +1,8 @@
 //check whether two trees are identical or not
  //identical when structure is same and values at same node positions are equal.
-class Solution {
+
+class Prob100
+{
     public boolean isSameTree(TreeNode p, TreeNode q) 
     {
         //base case: 2 empty nodes at same positions are equal,return true
@@ -23,7 +25,5 @@ class Solution {
         //if both subtrees are identical recursively, then whole tree is identical
         
            return(isSameTree(p.left,q.left) && isSameTree(p.right,q.right));
-            
-        
-       
-    }
+       }
+}
