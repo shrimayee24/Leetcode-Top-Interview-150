@@ -27,8 +27,6 @@ Welcome to my LeetCode Top Interview 150 repository! 🚀
 
 📌Files are stored in dictionary order.
 
-📌 Each file is named accordingly.
-
 ## 🏆 **Why This Repo?:**
 
 This repo serves as:
