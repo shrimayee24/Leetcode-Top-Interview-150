@@ -13,7 +13,7 @@ Welcome to my LeetCode Top Interview 150 repository! 🚀
 
 ✅ I've included detailed comments in each solution to explain the thought process, logic and algorithm used. 
 
-✅ This should help in understanding the approach and implementing solutions more quick and easy!
+✅ This should help in understanding the approach and implementing solutions more quickly and easily!
 
 ## ⌨️ **Tech Stack:**
 
