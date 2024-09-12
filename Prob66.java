@@ -1,6 +1,6 @@
 //sum of 1+integer stored as array
 //return sum as array
-class Solution 
+class Prob66
 {
     public int[] plusOne(int[] digits) 
     {
