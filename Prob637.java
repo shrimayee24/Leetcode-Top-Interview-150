@@ -12,7 +12,7 @@ class Prob637
         Queue<TreeNode> q = new LinkedList<>();
         
         if (root == null)
-        //if tree emty, return list as it is (empty) 
+        //if tree is empty, return list as it is (empty) 
         {
             return result;
         }
