@@ -22,7 +22,7 @@ class Prob189
     public void reverse(int[] nums,int start,int end)
     {
         //two pointer approach-left and right
-        //like palindrome, symmterically bring pointers closer and swap the elements
+        //like palindrome, symmetrically bring pointers closer and swap the elements
         while(start<end)
         {
             //swap elements
