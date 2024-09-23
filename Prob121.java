@@ -1,5 +1,7 @@
 //best time to buy and sell stock
-
+//greedy approach
+//check for consecutive days for buying and selling
+//if condition fails, dont consider that day for buying at all
 class Prob121 {
     public int maxProfit(int[] prices) 
     {
