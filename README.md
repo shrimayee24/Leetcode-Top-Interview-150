@@ -15,17 +15,17 @@ Welcome to my LeetCode Top Interview 150 repository! 🚀
 
 ✅ This should help in understanding the approach and implementing solutions more quickly and easily!
 
-## ⌨️ **Tech Stack:**
-
-🌟 Language: Java
-
-🌟 Concepts Covered: Data Structures, Algorithms, Programming Logic
-
 ## 🔍 **How to Search for Solutions:**
 
 📌 You can search by problem number to find the solution you're looking for. 
 
 📌Files are stored in dictionary order.
+
+## ⌨️ **Tech Stack:**
+
+🌟 Language: Java
+
+🌟 Concepts Covered: Data Structures, Algorithms, Programming Logic
 
 ## 🏆 **Why This Repo?:**
 
