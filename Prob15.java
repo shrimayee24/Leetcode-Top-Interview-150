@@ -34,17 +34,19 @@ class Prob15
                 {
                   triplets.add(Arrays.asList(nums[i],nums[j],nums[k]));
                   
-                  //increment j until unique element found
+                //increment j until latest duplicate element found
                   while(j<k && nums[j]==nums[j+1])
                   {
                       j++;
                   }
-                  //decrement k until unique element found
+                  //decrement k until latest duplicate element found
                   while(j<k && nums[k]==nums[k-1])
                   {
                       k--;
                   }
+                //move j to next unique element
                   j++;
+                //move k to next unique element
                   k--;
                 
                 }
