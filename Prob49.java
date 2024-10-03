@@ -1,6 +1,6 @@
 //group anagrams together
 //if characters of anagrams are sorted,they result in a same string
-//e.g sorting string eat,tea,ate gives us the same sorted string aet.
+//e.g sorting string "eat","tea","ate" gives us the same sorted string "aet".
 class Prob49
 {
     public List<List<String>> groupAnagrams(String[] strs) 
