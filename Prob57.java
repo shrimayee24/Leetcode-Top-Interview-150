@@ -2,7 +2,8 @@
 //keep on extending new interval to be added by merging it with intervals in array
 //if any interval in array cannot be merged with new interval,add interval as it is in output
 //then add the new interval merged with other intervals.
-class Solution {
+class Prob57 
+{
     public int[][] insert(int[][] intervals, int[] newInterval) 
   {
         List<int[]> output = new ArrayList<>();
