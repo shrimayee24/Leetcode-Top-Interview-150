@@ -27,6 +27,29 @@ Welcome to my LeetCode Top Interview 150 repository! 🚀
 
 🌟 Concepts Covered: Data Structures, Algorithms, Programming Logic
 
+## 📚 Data Structures and Algorithms Covered
+
+Here are the data structures and algorithms that I have worked on and implemented:
+
+- **🧱 Arrays**: Efficient storage and access of elements.
+- **🔤 Strings**: Manipulating and processing sequences of characters.
+- **🔑 HashMap**: Key-value storage and retrieval for fast lookups.
+- **🌳 Trees**:
+  - 🌿 Binary Trees
+  - 🌲 Binary Search Trees (BST)
+- **🔗 Linked Lists**:Solved linked list problems using various pointer approaches.
+- **🗂️ Stacks**: LIFO (Last In First Out) operations for managing function calls and expressions.
+- **💡 Bit Manipulation**: Efficiently working with binary data.
+- **➗ Math**: Implementing mathematical algorithms and logic.
+- **🧮 1D Dynamic Programming (DP)**: Optimizing solutions using subproblem solutions.
+- **🌬️ Sliding Window**: Efficiently solving range-based problems.
+- **↔️ Two Pointers**: Efficient techniques for searching and manipulation in arrays or lists.
+- **🐢🐇 Fast and Slow Pointer**: Detecting cycles or solving linked list problems.
+- **🌀 Divide and Conquer**: Breaking problems into subproblems for efficient solutions.
+- **♟️ Backtracking**: Recursively solving problems by exploring all possible solutions.
+- **➡️ Forward Pass**: Processing data from start to end.
+- **⬅️ Backward Pass**: Processing data from end to start.
+
 ## 🏆 **Why This Repo?:**
 
 This repo serves as:
