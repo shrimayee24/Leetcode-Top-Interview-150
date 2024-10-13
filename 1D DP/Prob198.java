@@ -1,5 +1,5 @@
 //maximum money robbed from alternate houses
-class Solution 
+class Prob198
 {
     public int rob(int[] nums) {
         if (nums == null || nums.length == 0) {
@@ -19,7 +19,7 @@ class Solution
             int temp = prev1;
             //prev1-max sum till now-either prev value or curr value+prev to prev value-take maximum
             prev1 = Math.max(prev2 + num, prev1);
-            //update pointer to prev to prev value by temp
+         //update pointer to prev to prev value by temp-previous prev 1 value (not updated)
             prev2 = temp;
         }
 
