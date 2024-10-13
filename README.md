@@ -27,7 +27,7 @@ Welcome to my LeetCode Top Interview 150 repository! 🚀
 
 🌟 Concepts Covered: Data Structures, Algorithms, Programming Logic
 
-## 📚 Data Structures and Algorithms Covered
+## 📚 Data Structures and Algorithms Covered:
 
 Here are the data structures and algorithms that I have worked on and implemented:
 
