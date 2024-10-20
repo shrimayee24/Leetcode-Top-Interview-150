@@ -1,6 +1,6 @@
 //add combinations of parenthesis
 //use of open and close counters to keep track of number of opening brackets and number of closing brackets
-//recursively add opening and closing brackets alternatively by swapping calls
+//recursively add opening and closing brackets by incrementing counters in calls of respective if conditions
 class Solution 
 {
     List<String> result = new ArrayList<>();
