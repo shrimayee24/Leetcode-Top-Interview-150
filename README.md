@@ -49,6 +49,8 @@ Here are the data structures and algorithms that I have worked on and implemente
 - **♟️ Backtracking**: Recursively solving problems by exploring all possible solutions.
 - **➡️ Forward Pass**: Processing data from start to end.
 - **⬅️ Backward Pass**: Processing data from end to start.
+- **📈 Kadane's Algorithm**: Maximum subarray sum.
+
 
 ## 🏆 **Why This Repo?:**
 
