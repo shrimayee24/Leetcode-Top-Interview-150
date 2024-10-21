@@ -19,7 +19,7 @@ class Prob452
             {
                 //increment number of arrows if no overlap found
                 count++;
-                //update end to current balloon's end for next iteration
+                //update end to current balloon's end for next iteration if no overlap
                 end=points[i][1];
             }
         }
