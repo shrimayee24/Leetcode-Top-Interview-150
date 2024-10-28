@@ -50,7 +50,7 @@ Here are the data structures and algorithms that I have worked on and implemente
 - **➡️ Forward Pass**: Processing data from start to end.
 - **⬅️ Backward Pass**: Processing data from end to start.
 - **📈 Kadane's Algorithm**: Maximum subarray sum.
-- **📍➖📍➖📍 Graph Data Structure**: Nodes connected by edges, forming a network.
+- **🕸️Graph Data Structure**: Nodes connected by edges, forming a network. 📍➖📍➖📍
 
 
 
