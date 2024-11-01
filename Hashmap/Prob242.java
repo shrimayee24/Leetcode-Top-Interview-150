@@ -1,4 +1,4 @@
-//check whether strings are anagrams of each other
+//chek whether strings are anagrams of each other
 
 //logic similiar to ransom notes
 //maintain array of count of letters
@@ -7,7 +7,7 @@
 //if all letters in s are ccoered in t then count at each index=0 
 //i.e strings are anagrams of each other
 
-class Prob242
+class Solution 
 {
     public boolean isAnagram(String s, String t) 
     {
@@ -28,6 +28,9 @@ class Prob242
      //decrement count by scanning letters in string t
         for(int i=0;i<s.length();i++)
         {
+            //if letter in t doesnt exist in s,return false
+            if(lettercount[t.charAt(i)-'a']==0) return false;
+            //else decrement the letter count used up by string t
             lettercount[t.charAt(i)-'a']--;
         }
         //check whether count is zero or not
