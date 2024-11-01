@@ -12,7 +12,7 @@ class Prob128
         //sort array in ascending order
         Arrays.sort(nums);
         
-        int currcount=1,maxcount=1;
+        int currcount=1,maxcount=Integer.MIN_VALUE;
         for(int i=1;i<nums.length;i++)
         {
             //if duplicate elements found,go for next iteration
