@@ -9,6 +9,7 @@ class Prob27  {
             //if element to be removed exists, dont increment counter at that index iteration
             if(nums[i]!=val)
             {
+                //count-placeholder to swap elements in place
                 nums[count]=nums[i];
                 count++;
             }
