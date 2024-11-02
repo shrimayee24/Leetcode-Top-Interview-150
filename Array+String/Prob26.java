@@ -10,6 +10,7 @@ class Prob26
 			//if previous element is not equal to next element, both are unique elements, increment counter
 			if(nums[i]!=nums[i-1])
 			{
+				//count-placeholder to swap values in place if condition satisfies
 				nums[count]=nums[i];
                 count++;
 			}
