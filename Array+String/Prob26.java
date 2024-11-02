@@ -12,7 +12,7 @@ class Prob26
 			{
 				//count-placeholder to swap values in place if condition satisfies
 				nums[count]=nums[i];
-                count++;
+                                count++;
 			}
 		}
 		return count;
