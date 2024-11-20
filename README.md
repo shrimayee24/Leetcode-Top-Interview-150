@@ -2,9 +2,8 @@
 
 # **✨💻LeetCode Top Interview 150 Solutions 💻✨**
 
-<img src="https://github.com/user-attachments/assets/afb94259-c411-4f39-877e-a506313ca7ba" width="200' height="200" />
-
 Welcome to my LeetCode Top Interview 150 repository! 🚀
+![Top_Interview_150](https://github.com/user-attachments/assets/dce997c2-1c86-4805-8040-2e64ef7cf02b)
 
 
 ☘️ This repository contains my solutions to the LeetCode Top Interview 150 coding problems. 
