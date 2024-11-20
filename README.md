@@ -1,4 +1,4 @@
-# **✨💻LeetCode Top Interview 150 Solutions 💻✨** <img src="https://github.com/user-attachments/assets/1dbba731-5212-4d7b-9232-8724e9abc048" width="50" height="50" />
+# **✨💻LeetCode Top Interview 150 Solutions 💻✨** <img src="https://github.com/user-attachments/assets/1dbba731-5212-4d7b-9232-8724e9abc048" width="100" height="100" />
 
 
 Welcome to my LeetCode Top Interview 150 repository! 🚀
