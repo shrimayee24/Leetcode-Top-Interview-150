@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/1dbba731-5212-4d7b-9232-8724e9abc048" width="200" height="200" />
 
-# **✨💻LeetCode Top Interview 150 Solutions 💻✨**
+# **✨💻LeetCode Top Interview 150 Solutions 💻✨** <img src="https://github.com/user-attachments/assets/1dbba731-5212-4d7b-9232-8724e9abc048" width="200" height="200" />
+
 
 Welcome to my LeetCode Top Interview 150 repository! 🚀
 ![Top_Interview_150](https://github.com/user-attachments/assets/dce997c2-1c86-4805-8040-2e64ef7cf02b)
