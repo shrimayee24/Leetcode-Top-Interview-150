@@ -1,5 +1,5 @@
 //text justification
-class Solution 
+class Prob68
 {
     public List<String> fullJustify(String[] words, int maxWidth) 
     {
