@@ -1,6 +1,6 @@
 //word break-dynamic programming
 //previous end index boundary(i)=start index of current section (j)
-class Solution 
+class Prob139
 {
     public boolean wordBreak(String s, List<String> wordDict) {
         //checking whether string exists or not is faster using hashset
