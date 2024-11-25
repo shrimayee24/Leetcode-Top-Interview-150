@@ -10,7 +10,7 @@ class Prob74
         for(int i=0;i<matrix.length;i++)
         {
              //find row where first element is less than target
-            if(matrix[i][0]> target) continue;
+            if(matrix[i][0]> target) break;
             //calculate minimum difference between element and target
              currdifference=Math.min(difference,target-matrix[i][0]);
              //if difference updated,update row
