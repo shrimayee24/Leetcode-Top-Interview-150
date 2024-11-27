@@ -1,4 +1,6 @@
-class Solution {
+//find whether following ransomnote can be constructed from magazine letters
+class Prob383 
+{
     public boolean canConstruct(String ransomNote, String magazine) 
     {
         //maintain indexwise count of letters in magazine  
